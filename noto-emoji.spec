@@ -4,7 +4,7 @@
 #
 Name     : noto-emoji
 Version  : 2017.03.10.color.emoji.ary.1
-Release  : 4
+Release  : 5
 URL      : http://localhost/cgit/projects/noto-emoji/snapshot/noto-emoji-2017-03-10-color-emoji-binary-1.tar.bz2
 Source0  : http://localhost/cgit/projects/noto-emoji/snapshot/noto-emoji-2017-03-10-color-emoji-binary-1.tar.bz2
 Summary  : No detailed summary available
