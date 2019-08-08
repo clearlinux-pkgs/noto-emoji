@@ -1,5 +1,5 @@
 PKG_NAME := noto-emoji
-URL = $(CGIT_BASE_URL)/projects/noto-emoji/snapshot/noto-emoji-2017-03-10-color-emoji-binary-1.tar.bz2
-
+URL = $(CGIT_BASE_URL)/projects/noto-emoji/snapshot/noto-emoji-2018-08-10-unicode11.tar.xz
+ARCHIVES = 
 
 include ../common/Makefile.common
